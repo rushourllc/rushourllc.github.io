@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body { margin: 0; }
-    iframe {
-      display: block;
-      width: 100%;
-      height: 100vh; /* 100% of the viewport height */
-      border: 0;
-    }
-  </style>
-</head>
-<body>
-  <iframe src="https://www.rushour.me/" title="Embedded Example Website"></iframe>
-</body>
-</html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2AMe4Qz3TkQ?si=tApcvqpxcffyG8wt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
