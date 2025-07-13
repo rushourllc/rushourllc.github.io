@@ -23,6 +23,11 @@
   See Rush At Your Favorite Restaurant
 </p>
 
+
+<p align="center" >
+   <img style="background: #083255; border-radius: 5px" width="598" height="497" alt="airport" src="https://github.com/user-attachments/assets/a9414759-6606-4f70-b0b0-aefb9060a760" />
+</p>
+
 <p align="center">
   Check Wait Times At Airports
 </p>
