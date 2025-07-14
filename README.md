@@ -38,5 +38,5 @@
 </p>
 
 
-   [Privacy Policy](PrivacyPolicy)
+[RUSHOUR LLC Privacy Policy 2025](PrivacyPolicy)
 
