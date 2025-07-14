@@ -11,7 +11,9 @@
 
 
 <p align="center">
-   <img width="100" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />
+   <a href="https://rushourllc.github.io">
+      <img width="100" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />
+   </a>
 </p>
 
 
