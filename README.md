@@ -41,6 +41,9 @@
   <img width="100%" alt="green" src="https://github.com/user-attachments/assets/bef27ef2-d4a2-4176-97b8-5a217e199c19" />
 </p>
 
-
-[RUSHOUR LLC  -  Privacy Policy](PrivacyPolicy.md)
+<p align="center">
+   <a href="https://rushourllc.github.io/PrivacyPolicy.html" target="_blank">
+      RUSHOUR LLC  -  Privacy Policy
+   </a>
+</p>
 
