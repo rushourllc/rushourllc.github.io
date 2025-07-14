@@ -137,6 +137,7 @@ Contacting Us
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
 RUSHOUR LLC
-18 BARTOL ST #1107, SAN FRANCISCO, CA 94133
+340 E MIDDLEFIELD RD,
+MOUNTAIN VIEW, CA 94043
 USA
 contact@rushour.me
