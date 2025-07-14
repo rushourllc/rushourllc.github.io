@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img width="778" height="136" alt="Patented" src="https://github.com/user-attachments/assets/ef2828a9-2bef-44b3-a1bc-a5c7c864da77" />
+  <img width="100%" alt="Patented" src="https://github.com/user-attachments/assets/ef2828a9-2bef-44b3-a1bc-a5c7c864da77" />
 </p>
 
 <p align="center">
@@ -22,19 +22,19 @@
 </p>
 
 <p align="center">
-   <img width="717" height="183" alt="restaurant" src="https://github.com/user-attachments/assets/17034da0-7b9a-49c2-8055-51e6444e2e61" />
+   <img width="100%" alt="restaurant" src="https://github.com/user-attachments/assets/17034da0-7b9a-49c2-8055-51e6444e2e61" />
 </p>
 
 <p align="center">
-   <img width="627" alt="airport" src="https://github.com/user-attachments/assets/6f66d350-b608-4080-982e-91b108e12254" />
+   <img width="100%" alt="airport" src="https://github.com/user-attachments/assets/6f66d350-b608-4080-982e-91b108e12254" />
 </p>
 
 <p align="center">
-  <img width="627"  alt="travel" src="https://github.com/user-attachments/assets/5467f69a-6833-43c7-90ab-6d61a57aecf6" />
+  <img width="100%"  alt="travel" src="https://github.com/user-attachments/assets/5467f69a-6833-43c7-90ab-6d61a57aecf6" />
 </p>
 
 <p align="center">
-  <img width="627" alt="green" src="https://github.com/user-attachments/assets/bef27ef2-d4a2-4176-97b8-5a217e199c19" />
+  <img width="100%" alt="green" src="https://github.com/user-attachments/assets/bef27ef2-d4a2-4176-97b8-5a217e199c19" />
 </p>
 
 
