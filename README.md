@@ -25,7 +25,7 @@
 
 
 <p align="center" >
-   <img style="background: #083255; border-radius: 5px" width="598" height="497" alt="airport" src="https://github.com/user-attachments/assets/a9414759-6606-4f70-b0b0-aefb9060a760" />
+   <img style="background: #083255; border-radius: 5px" width="10%" height="10%" alt="airport" src="https://github.com/user-attachments/assets/a9414759-6606-4f70-b0b0-aefb9060a760" />
 </p>
 
 <p align="center">
@@ -33,7 +33,15 @@
 </p>
 
 <p align="center">
+   <img style="background: #083255; border-radius: 5px" width="10%" height="10%" alt="nearby" src="https://github.com/user-attachments/assets/e8ad1dc9-ce22-4565-b3f8-12b2f9e03a5c" />
+</p>
+
+<p align="center">
   Make Most Of Your Travel
+</p>
+
+<p align="center">
+<img style="background: #083255; border-radius: 5px" width="10%" height="10%" alt="env2" src="https://github.com/user-attachments/assets/142ec538-bd28-436f-8337-1092b9619367" />
 </p>
 
 <p align="center">
