@@ -1,9 +1,5 @@
-<p align="center">
-   <img width="100" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />
-</p>
 
-
-<p align="center">
+<p align="left">
    <img width="300" alt="logo_rh_blue" src="https://github.com/user-attachments/assets/6bc7c1c6-86eb-475a-937d-4b33f4ef0f49" />
 </p>
 
@@ -11,6 +7,10 @@
 <iframe style="border-radius:10px" width="100%" height="500px" src="https://www.youtube.com/embed/2AMe4Qz3TkQ?si=tApcvqpxcffyG8wt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 <hr>
+
+<p align="center">
+   <img width="100" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />
+</p>
 
 
 <p align="center">
