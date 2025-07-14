@@ -1,7 +1,7 @@
 
 <p align="left" style="background: #083256; border-radius: 10px">
    <a href="https://rushourllc.github.io">      
-      <img style="backgournd:none" width="50%" height="151" alt="logo_rh_white 42502435c3ab" src="https://github.com/user-attachments/assets/6f965928-60db-43b5-a3bc-03454be5f74c" />
+      <img style="backgournd:none" width="50%" alt="logo_rh_white 42502435c3ab" src="https://github.com/user-attachments/assets/6f965928-60db-43b5-a3bc-03454be5f74c" />
    </a>
 </p>
 
