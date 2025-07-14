@@ -1,5 +1,10 @@
 <p align="center">
-<img width="500" alt="logo_rh_blue" src="https://github.com/user-attachments/assets/6bc7c1c6-86eb-475a-937d-4b33f4ef0f49" />
+<img width="100" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />
+</p>
+
+
+<p align="center">
+<img width="300" alt="logo_rh_blue" src="https://github.com/user-attachments/assets/6bc7c1c6-86eb-475a-937d-4b33f4ef0f49" />
 </p>
 
 
@@ -7,9 +12,6 @@
 <br>
 <hr>
 
-<p align="center">
-<img width="100" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />
-</p>
 
 <p align="center">
    A Crowd Sourced Crowd Reporting Service
