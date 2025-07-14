@@ -25,7 +25,7 @@
 
 
 <p align="center" >
-   <img style="background: #083255; border-radius: 5px" width="10%" height="10%" alt="airport" src="https://github.com/user-attachments/assets/e1796385-9b58-4e9f-8877-495948a5b4e9" />
+   <img style="background: #083255; border-radius: 5px" width="80" height="80" alt="airport" src="https://github.com/user-attachments/assets/e1796385-9b58-4e9f-8877-495948a5b4e9" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-   <img style="background: #083255; border-radius: 5px" width="10%" height="10%" alt="nearby" src="https://github.com/user-attachments/assets/ae1fd740-dff3-49d6-9e3d-b7eee9ee4ded" />
+   <img style="background: #083255; border-radius: 5px" width="80" height="80" alt="nearby" src="https://github.com/user-attachments/assets/ae1fd740-dff3-49d6-9e3d-b7eee9ee4ded" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-   <img style="background: #083255; border-radius: 5px" width="10%" height="10%" alt="env2" src="https://github.com/user-attachments/assets/3293ef52-4654-4b26-b609-b71be0e09be7" />
+   <img style="background: #083255; border-radius: 5px" width="80" height="80" alt="env2" src="https://github.com/user-attachments/assets/3293ef52-4654-4b26-b609-b71be0e09be7" />
 </p>
 
 <p align="center">
