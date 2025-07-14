@@ -1,10 +1,10 @@
 <p align="center">
-<img width="100" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />
+   <img width="100" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />
 </p>
 
 
 <p align="center">
-<img width="300" alt="logo_rh_blue" src="https://github.com/user-attachments/assets/6bc7c1c6-86eb-475a-937d-4b33f4ef0f49" />
+   <img width="300" alt="logo_rh_blue" src="https://github.com/user-attachments/assets/6bc7c1c6-86eb-475a-937d-4b33f4ef0f49" />
 </p>
 
 
@@ -14,40 +14,27 @@
 
 
 <p align="center">
-   A Crowd Sourced Crowd Reporting Service
+  <img width="778" height="136" alt="Patented" src="https://github.com/user-attachments/assets/ef2828a9-2bef-44b3-a1bc-a5c7c864da77" />
 </p>
 
 <p align="center">
-  #PatentedMethods
+   <img style= "border-radius:10px" width="100%" alt="Pokeatery" src="https://github.com/user-attachments/assets/24e798f8-23d4-47da-9d6f-8aecabe3b291" />
 </p>
 
 <p align="center">
-  See Rush At Your Favorite Restaurant
-</p>
-
-
-<p align="center" >
-   <img style="background: #083255; border-radius: 5px; padding: 10px" width="80" height="80" alt="airport" src="https://github.com/user-attachments/assets/e1796385-9b58-4e9f-8877-495948a5b4e9" />
+   <img width="717" height="183" alt="restaurant" src="https://github.com/user-attachments/assets/17034da0-7b9a-49c2-8055-51e6444e2e61" />
 </p>
 
 <p align="center">
-  Check Wait Times At Airports
+   <img width="627" alt="airport" src="https://github.com/user-attachments/assets/6f66d350-b608-4080-982e-91b108e12254" />
 </p>
 
 <p align="center">
-   <img style="background: #083255; border-radius: 5px; padding: 10px" width="80" height="80" alt="nearby" src="https://github.com/user-attachments/assets/ae1fd740-dff3-49d6-9e3d-b7eee9ee4ded" />
+  <img width="627"  alt="travel" src="https://github.com/user-attachments/assets/5467f69a-6833-43c7-90ab-6d61a57aecf6" />
 </p>
 
 <p align="center">
-  Make Most Of Your Travel
-</p>
-
-<p align="center">
-   <img style="background: #083255; border-radius: 5px; padding: 10px" width="80" height="80" alt="env2" src="https://github.com/user-attachments/assets/3293ef52-4654-4b26-b609-b71be0e09be7" />
-</p>
-
-<p align="center">
-  Optimized For Green Choices
+  <img width="627" alt="green" src="https://github.com/user-attachments/assets/bef27ef2-d4a2-4176-97b8-5a217e199c19" />
 </p>
 
 
