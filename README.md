@@ -8,7 +8,7 @@
 </p>
 
 
-<iframe width="100%" height="500px" src="https://www.youtube.com/embed/2AMe4Qz3TkQ?si=tApcvqpxcffyG8wt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="border-radius:10px" width="100%" height="500px" src="https://www.youtube.com/embed/2AMe4Qz3TkQ?si=tApcvqpxcffyG8wt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 <hr>
 
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-   <img style= "border-radius:10px" width="100%" alt="Pokeatery" src="https://github.com/user-attachments/assets/24e798f8-23d4-47da-9d6f-8aecabe3b291" />
+   <img style= "border-radius:10px" width="50%" alt="Pokeatery" src="https://github.com/user-attachments/assets/24e798f8-23d4-47da-9d6f-8aecabe3b291" />
 </p>
 
 <p align="center">
