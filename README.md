@@ -36,21 +36,3 @@
 <p align="center">
   <img width="627" alt="green" src="https://github.com/user-attachments/assets/bef27ef2-d4a2-4176-97b8-5a217e199c19" />
 </p>
-
-
-```
-
-Copyright © RUSHOUR LLC 2025 Privacy Policy
-
-
-| c o n t a c t @ r u s h o u r . m e |
-
-
-340 E Middlefield Rd, Mountain View, CA 94043
-
-```
-
-
-
-
-
