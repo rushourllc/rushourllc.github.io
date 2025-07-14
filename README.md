@@ -1,6 +1,8 @@
 
 <p align="left">
-   <img width="300" alt="logo_rh_blue" src="https://github.com/user-attachments/assets/6bc7c1c6-86eb-475a-937d-4b33f4ef0f49" />
+   <a href="https://rushourllc.github.io">
+      <img width="300" alt="logo_rh_blue" src="https://github.com/user-attachments/assets/6bc7c1c6-86eb-475a-937d-4b33f4ef0f49" />
+   </a>
 </p>
 
 
