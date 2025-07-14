@@ -42,5 +42,5 @@
 </p>
 
 
-[RUSHOUR LLC  -  Privacy Policy](PrivacyPolicy)
+[RUSHOUR LLC  -  Privacy Policy](PrivacyPolicy.md)
 
