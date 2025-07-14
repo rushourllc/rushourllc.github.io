@@ -1,3 +1,6 @@
+<head>
+   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
 
 <p align="left" style="background: #083256; border-radius: 10px; padding:10px">
    <a href="https://rushourllc.github.io">      
