@@ -37,6 +37,6 @@
   <img width="627" alt="green" src="https://github.com/user-attachments/assets/bef27ef2-d4a2-4176-97b8-5a217e199c19" />
 </p>
 
-<p align="center">
+
    [Privacy Policy](PrivacyPolicy)
-</p>
+
