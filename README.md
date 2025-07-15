@@ -22,23 +22,32 @@
 </p>
 
 <p align="center">
-   <img style= "border-radius:10px" width="50%" alt="Pokeatery" src="https://github.com/user-attachments/assets/24e798f8-23d4-47da-9d6f-8aecabe3b291" />
+     <img style= "border-radius:10px" width="50%" alt="Pokeatery" src="https://github.com/user-attachments/assets/3aa529bf-ccf9-4908-b87b-0c0ab4fe74d4" />
+</p>
+
+<p class="open-sans-fontstyle" align="center">
+  See Rush @ Your Favorite Restaurant
 </p>
 
 <p align="center">
-   <img width="100%" alt="restaurant" src="https://github.com/user-attachments/assets/17034da0-7b9a-49c2-8055-51e6444e2e61" />
+   <img style="background: #083256; border-radius: 10px; padding:10px" width="25%" alt="airport" src="https://github.com/user-attachments/assets/cca79002-6ba9-4074-8147-fd8e82b89ce9" />
+</p>
+
+<p class="open-sans-fontstyle" align="center">
+  Check Wait Times @ Airport
+</p>
+
+
+<p align="center">
+   <img style="background: #083256; border-radius: 10px; padding:10px" width="25%" alt="nearby" src="https://github.com/user-attachments/assets/e377cd33-6757-4f27-a912-5833a36b9866" />
+</p>
+
+<p class="open-sans-fontstyle" align="center">
+  Make Most Of Your Travels
 </p>
 
 <p align="center">
-   <img width="100%" alt="airport" src="https://github.com/user-attachments/assets/6f66d350-b608-4080-982e-91b108e12254" />
-</p>
-
-<p align="center">
-  <img width="100%"  alt="travel" src="https://github.com/user-attachments/assets/5467f69a-6833-43c7-90ab-6d61a57aecf6" />
-</p>
-
-<p align="center">
-  <img width="100%" alt="green" src="https://github.com/user-attachments/assets/bef27ef2-d4a2-4176-97b8-5a217e199c19" />
+   <img style="background: #083256; border-radius: 10px; padding:10px" width="25%" alt="env2" src="https://github.com/user-attachments/assets/ab4f666f-ba33-453d-8ce7-ab6f9c1abfed" />
 </p>
 
 <p align="center">
