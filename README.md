@@ -10,10 +10,7 @@
 <br>
 
 <p class="open-sans-fontstyle" align="center">
-  A Crowd Sourced Crowd Reporting Service
-</p>
-<p class="open-sans-fontstyle" align="center">
-   #Patented
+   #Patented A Crowd Sourced Crowd Reporting Service
 </p>
 
 <p align="center">   
