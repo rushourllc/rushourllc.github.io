@@ -1,5 +1,5 @@
 .crossRotate {
-background: transparent;
+background: transparent !important;
 -webkit-transition-duration: 1s;
 -moz-transition-duration: 1s;
 -o-transition-duration: 1s;
