@@ -10,7 +10,7 @@
 
 
 <p align="center">   
-   <img class="rotate" width="10%" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />   
+   <img class="crossRotate" width="10%" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />   
 </p>
 
 
