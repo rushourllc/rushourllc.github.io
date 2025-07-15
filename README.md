@@ -1,4 +1,5 @@
 <p align="left" style="background: #083256; border-radius: 10px; padding:10px">
+   <img class="crossRotate" width="7%" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />   
    <a href="https://rushourllc.github.io">      
      <img style="background-color:transparent" width="25%" alt="logo_rh_white 42502435c3ab" src="https://github.com/user-attachments/assets/6f965928-60db-43b5-a3bc-03454be5f74c" />
    </a>
