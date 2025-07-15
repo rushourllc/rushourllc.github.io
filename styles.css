@@ -17,11 +17,11 @@ transform: rotate(90deg);
 }
 
 
-.open-sans-<uniquifier> {
+.open-sans-fontstyle {
 font-family: "Open Sans", sans-serif;
 font-optical-sizing: auto;
 font-weight: 300;
-font-style: normal;
+font-style: light;
 font-variation-settings:
 "wdth" 100;
 }
