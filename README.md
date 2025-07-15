@@ -50,6 +50,10 @@
    <img class="icons" width="10%" alt="env2" src="https://github.com/user-attachments/assets/ab4f666f-ba33-453d-8ce7-ab6f9c1abfed" />
 </p>
 
+<p class="open-sans-fontstyle" align="center">
+  Optimized For Green Choices
+</p>
+
 <p align="center">
    <a href="https://rushourllc.github.io/PrivacyPolicy.html" target="_blank">
       RUSHOUR LLC  -  Privacy Policy
