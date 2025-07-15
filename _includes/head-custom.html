@@ -1,3 +1,22 @@
 <head>
    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+   <style>
+         .rotate {
+                   -webkit-transition-duration: 1s;
+                   -moz-transition-duration: 1s;
+                   -o-transition-duration: 1s;
+                   transition-duration: 1s;
+                   -webkit-transition-property: -webkit-transform;
+                   -moz-transition-property: -moz-transform;
+                   -o-transition-property: -o-transform;
+                   transition-property: transform;
+                  outline: 0;
+         }
+         
+         .rotate:focus {
+                  -webkit-transform: rotate(45deg);
+                  -ms-transform: rotate(45deg);
+                   transform: rotate(45deg);
+         }
+   </style>
 </head>
