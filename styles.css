@@ -25,3 +25,9 @@ font-style: normal;
 font-variation-settings:"wdth" 100;
 font-size:35px;
 }
+
+.icons {
+background: #083256; 
+border-radius: 10px; 
+padding:10px;
+}
