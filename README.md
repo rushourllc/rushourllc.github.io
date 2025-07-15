@@ -10,7 +10,7 @@
 <br>
 
 <p class="open-sans-fontstyle" align="center">
-   A #Patented Multi Sourced Rush Reporting Service
+   A #Patented Multi Sourced Mobile Rush Reporting Service
 </p>
 
 <p align="center">   
