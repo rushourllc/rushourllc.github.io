@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-     <img style= "border-radius:10px" width="50%" alt="Pokeatery" src="https://github.com/user-attachments/assets/3aa529bf-ccf9-4908-b87b-0c0ab4fe74d4" />
+     <img style= "border-radius:10px; margin-top: 300px" width="50%" alt="Pokeatery" src="https://github.com/user-attachments/assets/3aa529bf-ccf9-4908-b87b-0c0ab4fe74d4" />
 </p>
 
 <p class="open-sans-fontstyle" align="center">
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-   <img class="icons" width="10%" alt="airport" src="https://github.com/user-attachments/assets/cca79002-6ba9-4074-8147-fd8e82b89ce9" />
+   <img class="icons" width="20%" alt="airport" src="https://github.com/user-attachments/assets/cca79002-6ba9-4074-8147-fd8e82b89ce9" />
 </p>
 
 <p class="open-sans-fontstyle" align="center">
@@ -39,7 +39,7 @@
 
 
 <p align="center">
-   <img class="icons" width="10%" alt="nearby" src="https://github.com/user-attachments/assets/e377cd33-6757-4f27-a912-5833a36b9866" />
+   <img class="icons" width="20%" alt="nearby" src="https://github.com/user-attachments/assets/e377cd33-6757-4f27-a912-5833a36b9866" />
 </p>
 
 <p class="open-sans-fontstyle" align="center">
@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-   <img class="icons" width="10%" alt="env2" src="https://github.com/user-attachments/assets/ab4f666f-ba33-453d-8ce7-ab6f9c1abfed" />
+   <img class="icons" width="20%" alt="env2" src="https://github.com/user-attachments/assets/ab4f666f-ba33-453d-8ce7-ab6f9c1abfed" />
 </p>
 
 <p class="open-sans-fontstyle" align="center">
