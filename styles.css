@@ -42,10 +42,10 @@ transition: transform 0.5s ease-in-out; /* Add a smooth transition */
 /*  Define the keyframes for the flip animation */
 @keyframes flip-vertical {
   0% {
-    transform: scaleY(1); /* Starting state: no vertical flip */
+    transform: scaleX(1); /* Starting state: no vertical flip */
   }
   100% {
-    transform: scaleY(-1); /* Ending state: image is vertically flipped */
+    transform: scaleX(-1); /* Ending state: image is vertically flipped */
   }
 }
 
