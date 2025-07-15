@@ -14,8 +14,9 @@
 </p>
 
 
-<p align="center">
-  <img width="100%" alt="Patented" src="https://github.com/user-attachments/assets/ef2828a9-2bef-44b3-a1bc-a5c7c864da77" />
+<p class="open-sans-fontstyle" align="center">
+  A Crowd Sourced Crowd Reporting Service
+   #Patented
 </p>
 
 <p align="center">
