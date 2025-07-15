@@ -9,8 +9,8 @@
 <br>
 
 
-<p class="rotate" align="center">   
-   <img width="10%" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />   
+<p align="center">   
+   <img class="rotate" width="10%" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />   
 </p>
 
 
