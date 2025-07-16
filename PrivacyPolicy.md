@@ -48,11 +48,8 @@ However, you will still be able to place orders .
 
 Third-party disclosure
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+*We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Informationw without Consent.*
 
-Third-party links
-
-We do not include or offer third-party products or services on our website.
 
 Google
 
