@@ -35,7 +35,9 @@
 
 
 <p align="center">
-   <img class="icons flipCard" width="20%" alt="nearby" src="https://github.com/user-attachments/assets/e377cd33-6757-4f27-a912-5833a36b9866" />
+    <a href="https://earthshotprize.org/">      
+      <img class="icons flipCard" width="20%" alt="nearby" src="https://github.com/user-attachments/assets/e377cd33-6757-4f27-a912-5833a36b9866" />
+    </a>
 </p>
 
 <p class="open-sans-fontstyle" align="center">
@@ -43,7 +45,7 @@
 </p>
 
 <p align="center">
-   <img class="earth flipCard" width="20%" alt="sustainable-earth" src="https://github.com/user-attachments/assets/ff6b59a5-380d-4054-ada9-4c63b8e282fd" />
+   <img class="earth" width="20%" alt="sustainable-earth" src="https://github.com/user-attachments/assets/ff6b59a5-380d-4054-ada9-4c63b8e282fd" />
 </p>
 
 <p class="open-sans-fontstyle" align="center">
