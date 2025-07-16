@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-     <img style= "border-radius:10px; margin-top: 200px" width="50%" alt="Pokeatery" src="https://github.com/user-attachments/assets/3aa529bf-ccf9-4908-b87b-0c0ab4fe74d4" />
+     <img style= "border-radius:10px; margin-top: 200px" width="25%" alt="Pokeatery" src="https://github.com/user-attachments/assets/3aa529bf-ccf9-4908-b87b-0c0ab4fe74d4" />
 </p>
 
 <p class="open-sans-fontstyle" align="center">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-     <img class="icons flipCard" width="20%" alt="airport" src="https://github.com/user-attachments/assets/d8bbca47-fb56-440a-aac7-bbcd574e270c" />   
+      <img class="icons flipCard" width="20%" alt="airport" src="https://github.com/user-attachments/assets/6425da76-bbf3-4ebc-b8a1-90a19c175e07" />
 </p>
 
 <p class="open-sans-fontstyle" align="center">
