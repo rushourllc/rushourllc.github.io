@@ -47,11 +47,19 @@ margin-top:300px;
 
 /*  Basic styling for the image */
 .flipCard {
-transition: transform 0.5s ease-in-out; /* Add a smooth transition */
+-webkit-transition-duration: 1s;
+-moz-transition-duration: 1s;
+-o-transition-duration: 1s;
+transition-duration: 1s;
+-webkit-transition-property: -webkit-transform;
+-moz-transition-property: -moz-transform;
+-o-transition-property: -o-transform;
+transition-property: transform;
+outline: 0;
 }
 
 /* Apply the animation to the image on hover */
 .flipCard:hover {
-animation: flip-horizontal 2s infinite alternate ease-in-out; 
+transform: scaleX(-1); 
 }
 
