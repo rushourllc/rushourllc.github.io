@@ -49,7 +49,7 @@
 </p>
 
 <p class="open-sans-fontstyle" align="center">
-  Optimized For 🍀 Choices
+  Optimized For </a href="https://sustainability.google/">🍀</a> Choices
 </p>
 
 <p align="center">
