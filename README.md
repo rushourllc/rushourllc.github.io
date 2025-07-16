@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-   <img class="icons flipCard" width="20%" alt="env2" src="https://github.com/user-attachments/assets/ab4f666f-ba33-453d-8ce7-ab6f9c1abfed" />
+   <img class="icons flipCard" width="10%" alt="sustainable-earth" src="https://github.com/user-attachments/assets/ff6b59a5-380d-4054-ada9-4c63b8e282fd" />
 </p>
 
 <p class="open-sans-fontstyle" align="center">
