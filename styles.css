@@ -40,11 +40,8 @@ margin-top:300px;
   0% {
     transform: scaleX(1); /* Starting state: no vertical flip */
   }
-  50% {
-    transform: scaleX(-1); /* Ending state: image is vertically flipped */
-  }
   100% {
-    transform: scaleX(1); /* Back to unflipped */
+    transform: scaleX(-1); /* Back to unflipped */
   }
 }
 
