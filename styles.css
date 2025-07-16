@@ -47,7 +47,7 @@ margin-top:300px;
 
 /*  Basic styling for the image */
 .flipCard {
-animation: flip-vertical 1s forwards; /* Apply the animation for 1 second, and keep the final state */
+animation: flip-vertical 1s backwords; /* Apply the animation for 1 second, and keep the final state */
 transition: transform 0.5s ease-in-out; /* Add a smooth transition */
 }
 
