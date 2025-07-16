@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-   <img class="icons flipCard" width="20%" alt="airport" src="https://github.com/user-attachments/assets/cca79002-6ba9-4074-8147-fd8e82b89ce9" />
+     <img class="icons flipCard" width="20%" alt="airport" src="https://github.com/user-attachments/assets/d8bbca47-fb56-440a-aac7-bbcd574e270c" />   
 </p>
 
 <p class="open-sans-fontstyle" align="center">
@@ -35,9 +35,7 @@
 
 
 <p align="center">
-    <a href="https://earthshotprize.org/">      
-      <img class="icons flipCard" width="20%" alt="nearby" src="https://github.com/user-attachments/assets/e377cd33-6757-4f27-a912-5833a36b9866" />
-    </a>
+   <img class="icons flipCard" width="20%" alt="travels" src="https://github.com/user-attachments/assets/1dbd64a3-829e-46b1-9aee-79fe4b64592d" />
 </p>
 
 <p class="open-sans-fontstyle" align="center">
@@ -45,7 +43,9 @@
 </p>
 
 <p align="center">
-   <img class="earth" width="20%" alt="sustainable-earth" src="https://github.com/user-attachments/assets/ff6b59a5-380d-4054-ada9-4c63b8e282fd" />
+   <a href="https://earthshotprize.org/"> 
+      <img class="earth" width="20%" alt="sustainable-earth" src="https://github.com/user-attachments/assets/ff6b59a5-380d-4054-ada9-4c63b8e282fd" />
+   </a>
 </p>
 
 <p class="open-sans-fontstyle" align="center">
