@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-     <img class="food" alt="Pokeatery" src="https://github.com/user-attachments/assets/3aa529bf-ccf9-4908-b87b-0c0ab4fe74d4" />
+     <img class="food" width="20%" alt="Pokeatery" src="https://github.com/user-attachments/assets/3aa529bf-ccf9-4908-b87b-0c0ab4fe74d4" />
 </p>
 
 <p class="open-sans-fontstyle" align="center">
