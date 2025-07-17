@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-   <a href="https://earthshotprize.org/"> 
+   <a href="https://earthshotprize.org/" target="_blank"> 
       <img class="earth" width="20%" alt="sustainable-earth" src="https://github.com/user-attachments/assets/ff6b59a5-380d-4054-ada9-4c63b8e282fd" />
    </a>
 </p>
