@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-   <a href="https://rushourllc.github.io/PrivacyPolicy.html" target="_blank">
+   <a href="https://rushourllc.github.io/privacypolicy.html" target="_blank">
       RUSHOUR LLC  -  Privacy Policy
    </a>
 </p>
