@@ -10,12 +10,12 @@
 </p>
 <br>
 
-<p class="open-sans-fontstyle" align="center">
-   A #Patented Multi Sourced Mobile Rush Reporting Service
-</p>
-
 <p align="center">   
    <img class="crossRotate" width="20%" alt="rushourllc" src="https://github.com/user-attachments/assets/bb59fad4-cca4-4172-beaa-2b5b80921978" />   
+</p>
+
+<p class="open-sans-fontstyle" align="center">
+   A #Patented Multi Sourced Mobile Rush Reporting Service
 </p>
 
 <p align="center">
