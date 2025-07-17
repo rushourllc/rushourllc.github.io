@@ -10,7 +10,6 @@
          <img class="crossRotate" width="20%" alt="rushourllc" src="https://github.com/user-attachments/assets/75be8f4d-a5b8-456f-b0fe-4b091d6e604e" />   
       </td>
       <td>
-      </td>
          <a href="https://www.linkedin.com/in/yunlijessica/" target="_blank">
            <img title="Mobile Engineer" style="border-radius:50%" width="20%" alt="YL-Photo" src="https://github.com/user-attachments/assets/300d81a2-ef25-491c-8192-197b25d442de" />
          </a>
