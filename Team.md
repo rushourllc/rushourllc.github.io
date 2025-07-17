@@ -3,7 +3,7 @@
    <tr>
       <td>
          <a href="https://www.linkedin.com/in/sunilingle/" target="_blank">
-            <img titile="Lead Engineer" style="border-radius:50%" width="20%" alt="SI_Photo" src="https://github.com/user-attachments/assets/938dcada-663f-48d3-8a12-acf4a028dacb" />
+            <img title="Lead Engineer" style="border-radius:50%" width="20%" alt="SI_Photo" src="https://github.com/user-attachments/assets/938dcada-663f-48d3-8a12-acf4a028dacb" />
          </a>
       </td>
       <td>
