@@ -52,7 +52,7 @@
 <p class="open-sans-fontstyle" align="center">
    Optimized for <a href="https://sustainability.google/"> Sustainable 🍀 </a> Choices
 </p>
-
+<br><br><br><br><br>
 <p align="center">
    <a href="https://rushourllc.github.io/privacypolicy.html" target="_blank">
       RUSHOUR LLC  -  Privacy Policy
