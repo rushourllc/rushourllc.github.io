@@ -50,7 +50,7 @@
 </p>
 
 <p class="open-sans-fontstyle" align="center">
-   Optimized for <a href="https://sustainability.google/">🍀</a> Choices
+   Optimized for <a href="https://sustainability.google/"> Sustainable 🍀 </a> Choices
 </p>
 
 <p align="center">
