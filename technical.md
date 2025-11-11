@@ -2,9 +2,9 @@
 
 > 20 - Points :
 
-- [ ] Introduction, Discussions on Prior Experience, Projects
-- [ ] Look for communication skills
-- [ ] Ability to describe problem solving approach
+* [ ] Introduction, Discussions on Prior Experience, Projects
+* [ ] Look for communication skills
+* [ ] Ability to describe problem solving approach
 
 > 20 - Points : Technical Problem Solving
 
