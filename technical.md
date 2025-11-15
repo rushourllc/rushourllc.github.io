@@ -4,12 +4,12 @@
 
 1. [ ] Introduction, Discussions on Prior Experience, Projects
 2. [ ] Look for communication skills
-3. [ ] Ability to describe problem solving approach
 
 > 20 - Points : Technical Problem Solving
 
-4. [ ] Candidate is given a well defined problem statement related to company's products
-5. [ ] Candidate ability to understand the problem asks questions if there’s ambiguity or needs clarity with an example
+3. [ ] Candidate is given a well defined problem statement related to company's products
+4. [ ] Candidate able to understand the problem asks questions if there’s ambiguity or needs clarity with an example
+5. [ ] Candidates able to describe problem solving approach
   
 > 20 - Points : Algorithm
 
