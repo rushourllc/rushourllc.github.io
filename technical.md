@@ -8,8 +8,8 @@
 > 20 - Points : Technical Problem Solving
 
 3. [ ] Candidate is given a well defined problem statement related to company's products
-4. [ ] Candidate able to understand the problem asks questions if there’s ambiguity or needs clarity with an example
-5. [ ] Candidates able to describe problem solving approach
+4. [ ] Candidate is able to understand the problem asks questions if there’s ambiguity or needs clarity with an example
+5. [ ] Candidate is able to describe problem solving approach
   
 > 20 - Points : Algorithm
 
